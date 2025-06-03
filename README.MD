@@ -37,7 +37,7 @@ This is a simple demonstration project to showcase the importance of rate limiti
    ```bash
    cd backend
    npm install
-````
+   ```
 
 2. Run the backend server:
 
