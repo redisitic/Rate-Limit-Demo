@@ -1,5 +1,5 @@
 import requests
-username = 'testuser'
+username = 'user'
 url = 'http://localhost:3001/api/login-no-limit'
 
 password_list = [

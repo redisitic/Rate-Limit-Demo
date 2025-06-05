@@ -5,8 +5,8 @@ url = 'http://localhost:3001/api/login-no-limit'
 username = 'testuser'
 password = 'wrongpassword'
 
-requests_count = 1000
-concurrency = 50
+requests_count = 1000000
+concurrency = 5000
 
 def send_request():
     try:
